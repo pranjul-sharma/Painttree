@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Painttree</string>
+    <string name="about">This is the Upage that shares pages to the public. User can send articles, pages, photos and can share them with public
+    This app is very simple in using, User can read articles, pages through it. In Upage user can post pages that can be of any size, or any type.
+    </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

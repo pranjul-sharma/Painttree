@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "928546140371",
+    "firebase_url": "https://painttree-9032a.firebaseio.com",
+    "project_id": "painttree-9032a",
+    "storage_bucket": "painttree-9032a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928546140371:android:1b474039961ab197",
+        "android_client_info": {
+          "package_name": "com.painttree.paintit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928546140371-3tk5ehlfikeg8rrso4odkc4d2resftn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.painttree.paintit",
+            "certificate_hash": "b3ab30e3ae55d733f028443925b96f3905e75bad"
+          }
+        },
+        {
+          "client_id": "928546140371-p6ti9m2840vn1lrsgui7k8if81707hka.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "928546140371-p6ti9m2840vn1lrsgui7k8if81707hka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDohRmaIxYC3KTxFcOJALPKwXcSU9WOeCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928546140371-p6ti9m2840vn1lrsgui7k8if81707hka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
