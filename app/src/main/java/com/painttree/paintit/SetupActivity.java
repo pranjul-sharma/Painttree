@@ -79,7 +79,7 @@ public class SetupActivity extends AppCompatActivity {
             filePath.putFile(mImageUri).addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
                 @Override
                 public void onSuccess(UploadTask.TaskSnapshot taskSnapshot) {
-                    String downloadUri = filePath.getDownloadUrl().toString();
+                    Uri downloadUri = filePath.getDownloadUrl().getResult();
                     mDatabaseUsers.child(user_id).child("name").setValue(name);
                     mDatabaseUsers.child(user_id).child("image").setValue(downloadUri);
                     mProgress.dismiss();
